@@ -2,8 +2,8 @@
 
 - 支持Excel导入到Mysql，解决因Excel列增多减少而需要不断改代码的需求问题。
 - 原理:第一行标题作为Mysql字段名，内容自动插入转换Mysql
-- 支持:xlsx文件转Mydql
-- 不支持带合并单元格Excel文件
+- 支持:xlsx文件转Mysql
+- 不支持有并单元格Excel文件
 ### 导入展示
 - Excel文件
 

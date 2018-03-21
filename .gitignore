@@ -1,0 +1,6 @@
+testFile/*
+ExcelToMysql
+*.exe
+.idea/*
+.Archive/*
+
